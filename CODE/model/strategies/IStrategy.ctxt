@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=game\ player
+comment0.target=model.Direction\ nextMove(model.Game,\ model.Player)
+comment0.text=\r\n\ Decides\ what\ direction\ the\ player\ should\ move\ based\ on\ the\ player\ position\ and\ the\ state\ of\ the\ game.\r\n\ @param\ game\ A\ Game-state\ that\ contains\ the\ information\ needed\ for\ tactical\ decisions.\r\n\ @param\ player\ A\ Player\ object\ that\ contains\ the\ player\ information.\r\n\ @return\ A\ Direction\ with\ the\ move\ to\ make.\r\n
+numComments=1

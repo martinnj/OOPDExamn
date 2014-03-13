@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Position(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ the\ Position\ class.\r\n\ @param\ x\ An\ integer\ value\ the\ will\ become\ the\ positions\ x-coordinate.\r\n\ @param\ y\ An\ integer\ value\ the\ will\ become\ the\ positions\ y-coordinate.\r\n
+comment1.params=direction
+comment1.target=Position\ getNeighbour(Direction)
+comment1.text=\r\n\ Gets\ the\ neighboring\ coordinate\ in\ a\ specific\ direction.\r\n\ @param\ direction\ The\ direction\ enum\ of\ the\ direction\ we\ want\ to\ get\ the\ neighbour\ from.\r\n\ @return\ A\ new\ position\ with\ the\ correct\ coordinates\ for\ the\ neightbour.\ Returns\ null\ if\ an\ invalid\ direction\ is\ given.\r\n
+comment2.params=
+comment2.target=int\ getX()
+comment2.text=\r\n\ Returns\ the\ x\ value\ of\ the\ positions\ coordinate-set.\r\n\ @return\ An\ integer\ with\ the\ x-coordinate.\r\n
+comment3.params=
+comment3.target=int\ getY()
+comment3.text=\r\n\ Returns\ the\ y\ value\ of\ the\ positions\ coordinate-set.\r\n\ @return\ An\ integer\ with\ the\ y-coordinate.\r\n
+comment4.params=
+comment4.target=java.util.Collection\ getNeighbours()
+comment4.text=\r\n\ A\ collection\ of\ the\ positions\ neighbouring\ this\ position.\ Note\ that\ only\ the\ positions\r\n\ to\ the\ west,\ east,\ north\ and\ south\ are\ neighbours.\ Positions\ diagonal\ from\ this\r\n\ are\ not.\r\n\ \r\n\ @return\ \ A\ collection\ of\ the\ neighbouring\ positions\r\n
+numComments=5

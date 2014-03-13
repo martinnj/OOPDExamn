@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WallHuggerStrategy()
+comment0.text=\r\n\ Constructor\ for\ the\ wallhugger\ strategy.\r\n\ The\ directions\ arraylist\ are\ initialized\ to\ a\ shuffled\ order\ to\ make\ different\ bots\ behave\ different\ (for\ fun\ and\ show.)\r\n
+comment1.params=game\ player
+comment1.target=model.Direction\ nextMove(model.Game,\ model.Player)
+comment1.text=\r\n\ Decides\ what\ direction\ the\ player\ should\ move\ based\ on\ the\ player\ position\ and\ the\ state\ of\ the\ game.\r\n\ @param\ game\ A\ Game-state\ that\ contains\ the\ information\ needed\ for\ tactical\ decisions.\r\n\ @param\ player\ A\ Player\ object\ that\ contains\ the\ player\ information.\r\n\ @return\ A\ Direction\ with\ the\ move\ to\ make.\r\n
+numComments=2

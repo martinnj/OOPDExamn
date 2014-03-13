@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Direction\ getOpposite()
+comment1.params=
+comment1.target=Direction\ getOpposite()
+comment2.params=
+comment2.target=Direction\ getOpposite()
+comment3.params=
+comment3.target=Direction\ getOpposite()
+comment4.params=
+comment4.target=Direction\ getOpposite()
+comment4.text=\r\n\ Retrieves\ the\ direction\ opposite\ to\ this\ one\r\n\ \r\n\ @return\ \ The\ opposite\ direction\r\n
+comment5.params=
+comment5.target=java.util.Collection\ shuffledValues()
+comment5.text=\r\n\ Returns\ the\ directions\ in\ random\ order\r\n\ \r\n\ @return\ A\ collection\ containing\ the\ directions\ in\ random\ order.\r\n
+numComments=6

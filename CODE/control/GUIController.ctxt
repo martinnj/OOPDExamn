@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=manager
+comment0.target=GUIController(model.GameManager)
+comment0.text=\r\n\ Creates\ a\ new\ controller.\r\n\ @param\ \ \ manager\ \ \ \ \ a\ game\ manager\r\n
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\r\n\ Runs\ the\ game\ by\ taking\ a\ turn\ until\ a\ player\ has\ won.\r\n\ \r\n\ @throws\ InterruptedException\r\n
+comment2.params=
+comment2.target=void\ showGameResult()
+comment2.text=\r\n\ Shows\ a\ message\ box\ with\ the\ game\ result.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getResultMessage()
+comment3.text=\r\n\ Gets\ a\ result\ message\ about\ the\ players.\r\n
+numComments=4

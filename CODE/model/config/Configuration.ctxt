@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=width\ height\ scaleFactor\ lineSegments\ startPositions
+comment0.target=Configuration(int,\ int,\ int,\ java.util.Collection,\ java.util.Collection)
+comment0.text=\r\n\ Constructs\ a\ new\ configuration\ with\ the\ specified\ parameters.\r\n\ \r\n\ @param\ \ \ width\ \ \ \ \ \ \ \ \ \ \ The\ width\ of\ the\ board\r\n\ @param\ \ \ height\ \ \ \ \ \ \ \ \ \ The\ height\ of\ the\ board\r\n\ @param\ \ \ scaleFactor\ \ \ \ \ The\ scale\ factor\ to\ be\ used\ for\ drawing\ the\ board\r\n\ @param\ \ \ lineSegments\ \ \ \ A\ collection\ of\ walls\ on\ the\ board\r\n\ @param\ \ \ startPositions\ \ A\ collection\ of\ positions\ where\ players\ can\ start.\r\n
+comment1.params=
+comment1.target=int\ getWidth()
+comment1.text=\r\n\ Gets\ the\ width\ of\ the\ board\ that\ the\ configuration\ represents\r\n\ \r\n\ @return\ \ Width\ of\ the\ board\r\n
+comment2.params=
+comment2.target=int\ getHeight()
+comment2.text=\r\n\ Gets\ the\ height\ of\ the\ board\ that\ the\ configuration\ represents\r\n\ \r\n\ @return\ \ Height\ of\ the\ board\r\n
+comment3.params=
+comment3.target=int\ getScaleFactor()
+comment3.text=\r\n\ Retrieves\ the\ scale\ factor\ of\ the\ board\ for\ drawing\r\n\ \r\n\ @return\ \ The\ scale\ factor\r\n
+comment4.params=
+comment4.target=java.util.Collection\ getLineSegments()
+comment4.text=\r\n\ Retrieves\ the\ collection\ of\ walls\ on\ the\ board.\r\n\ \r\n\ @return\ The\ collection\ of\ walls\r\n
+comment5.params=
+comment5.target=java.util.Collection\ getStartPositions()
+comment5.text=\r\n\ Retrieves\ the\ collection\ of\ start\ positions\ on\ the\ board.\r\n\ \r\n\ @return\ The\ collection\ of\ start\ positions.\r\n
+numComments=6

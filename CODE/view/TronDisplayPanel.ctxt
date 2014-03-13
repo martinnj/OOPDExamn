@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=width\ height\ scaleFactor
+comment0.target=TronDisplayPanel(int,\ int,\ int)
+comment0.text=\r\n\ Creates\ a\ new\ image\ panel\ with\ a\ specified\ dimension\ and\ scaling\ factor.\r\n\ \r\n\ @param\ \ \ width\ \ \ \ \ \ \ the\ width\ of\ the\ panel\r\n\ @param\ \ \ height\ \ \ \ \ \ the\ height\ of\ the\ panel\r\n\ @param\ \ \ scaleFactor\ the\ scaling\ factor\r\n
+comment1.params=x\ y\ color
+comment1.target=void\ setPixel(int,\ int,\ java.awt.Color)
+comment1.text=\r\n\ Paints\ a\ pixel\ at\ the\ specified\ position.\r\n\ \r\n\ @param\ \ \ x\ \ \ \ \ \ \ the\ x\ coordinate\r\n\ @param\ \ \ y\ \ \ \ \ \ \ the\ y\ coordinate\r\n\ @param\ \ \ color\ \ \ the\ color\ to\ paint\ this\ position\r\n
+comment2.params=o\ arg
+comment2.target=void\ update(java.util.Observable,\ java.lang.Object)
+comment2.text=\r\n\ Called\ when\ an\ observed\ object\ has\ been\ changed.\r\n\ \r\n\ @param\ \ \ o\ \ \ the\ observed\ object\r\n\ @param\ \ \ arg\ the\ argument\ given\ by\ the\ observed\ object\r\n
+comment3.params=color\ position
+comment3.target=void\ paintBrightPixel(java.awt.Color,\ model.Position)
+comment3.text=\r\n\ Paints\ a\ pixel\ that\ is\ slightly\ brighter\ than\ the\ specified\ color\ at\ the\ specified\ position.\r\n\ \r\n\ @param\ color\ the\ relative\ color\ to\ paint\ the\ pixel\r\n\ @param\ position\ the\ position\ of\ the\ pixel\ to\ paint\r\n
+comment4.params=color\ position
+comment4.target=void\ paintPixel(java.awt.Color,\ model.Position)
+comment4.text=\r\n\ Paints\ a\ pixel\ of\ the\ specified\ color\ at\ the\ specified\ position.\r\n\ \r\n\ @param\ color\ the\ color\ to\ paint\ the\ pixel\r\n\ @param\ position\ the\ position\ of\ the\ pixel\ to\ paint\r\n
+comment5.params=game\ players
+comment5.target=void\ init(model.Game,\ java.util.Collection)
+comment5.text=\r\n\ Initializes\ the\ image\ display\ based\ on\ a\ board\ and\ a\ collection\ of\ players.\r\n\ \r\n\ NOTE\:\r\n\ For\ some\ reason\ this\ method\ sometimes\ stalls\ the\ game\ at\ first\ load.\r\n\ \r\n\ @param\ \ \ game\ \ \ \ the\ game\r\n\ @param\ \ \ players\ the\ players\ on\ the\ board\r\n
+comment6.params=graphics
+comment6.target=void\ paintComponent(java.awt.Graphics)
+comment7.params=x\ y
+comment7.target=int\ getUpperLeft(int,\ int)
+comment7.text=\r\n\ Gets\ the\ pixel\ index\ of\ upper\ left\ corner\ of\ a\ given\ position\r\n\ \r\n\ @param\ \ \ x\ \ \ the\ x\ coordinate\r\n\ @param\ \ \ y\ \ \ the\ y\ coordinate\r\n
+comment8.params=
+comment8.target=java.awt.Dimension\ getPreferredSize()
+numComments=9

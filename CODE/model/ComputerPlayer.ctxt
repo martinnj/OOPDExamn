@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=color\ name\ strategy
+comment0.target=ComputerPlayer(java.awt.Color,\ java.lang.String,\ strategies.IStrategy)
+comment0.text=\r\n\ Constructs\ a\ new\ computer\ player\ with\ the\ specified\ strategy,\ name\ and\ color\r\n\ \r\n\ @param\ \ \ color\ \ \ \ \ \ \ The\ color\ of\ the\ player\r\n\ @param\ \ \ name\ \ \ \ \ \ \ \ The\ name\ of\ the\ player\r\n\ @param\ \ \ strategy\ \ \ \ The\ strategy\ of\ the\ player\r\n
+comment1.params=game
+comment1.target=Direction\ nextMove(Game)
+comment1.text=\r\n\ The\ direction\ of\ the\ next\ move\ this\ player\ wants\ to\ do.\r\n\ This\ method\ does\ not\ perform\ the\ move,\ but\ only\ informs\ the\ game\r\n\ that\ the\ player\ wants\ to\ do\ this\ move.\r\n\ \r\n\ @param\ \ \ game\ \ The\ state\ of\ the\ game.\r\n\ \r\n\ @return\ The\ direction\ of\ the\ wished\ move.\r\n
+numComments=2

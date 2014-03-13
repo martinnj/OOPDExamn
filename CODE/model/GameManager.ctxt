@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=config\ players
+comment0.target=GameManager(config.Configuration,\ java.util.Collection)
+comment0.text=\r\n\ Constructs\ a\ new\ game\ manager\ from\ a\ configuration\ and\ a\ collection\ of\ players\r\n\ \r\n\ A\ new\ GameManager\ object\ creates\ a\ Board\ object\ for\ the\ game\ and\ assigns\ the\r\n\ players\ to\ their\ respective\ start\ locations.\r\n\ \r\n\ @param\ \ \ config\ \ The\ configuration\ of\ the\ new\ game\r\n\ @param\ \ \ players\ The\ players\ that\ will\ be\ competing\ in\ the\ game\r\n
+comment1.params=
+comment1.target=void\ takeTurn()
+comment1.text=\r\n\ Performs\ a\ move\ for\ each\ player.\ Makes\ sure\ noone\ is\ making\ a\ backwards\ move\ or\ moves\ into\ a\ wall.\r\n\ Also\ makes\ sure\ each\ visited\ field\ gets\ converted\ to\ a\ wall.\r\n
+comment2.params=
+comment2.target=Player\ getWinner()
+comment2.text=\r\n\ Retrieves\ the\ winner\ of\ the\ game\ or\ null\ if\ the\ game\ was\ a\ tie.\r\n\ \r\n\ @return\ The\ winner\ or\ null\ in\ case\ of\ a\ tie\r\n
+comment3.params=
+comment3.target=Game\ getGame()
+comment3.text=\r\n\ Retrieves\ the\ immutable\ game\ object\ representing\ the\ status\ of\ the\ game.\r\n\ \r\n\ @return\ The\ game\ object\r\n
+comment4.params=
+comment4.target=java.util.Collection\ getPlayers()
+comment4.text=\r\n\ Returns\ the\ player\ list\r\n\ \r\n\ @return\ the\ player\ list\r\n
+comment5.params=config
+comment5.target=void\ createBoard(config.Configuration)
+comment5.text=\r\n\ Creates\ the\ board\ from\ a\ selected\ Configuration\ instance.\ This\ operation\ is\ making\ board\ sizes\ building\ walls\ and\ assigning\ positions\ to\ players.\r\n\ @param\ \ \ config\ \ Configuration\ instance\ to\ use\ for\ creating\ the\ level.\r\n
+numComments=6

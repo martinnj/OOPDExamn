@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=file
+comment0.target=TextParser(java.io.File)
+comment0.text=\r\n\ Constructs\ a\ new\ TextParser\ to\ work\ on\ the\ specified\ file.\r\n\ \r\n\ @throws\ \ FileNotFoundException\ \ \ if\ the\ file\ does\ not\ exist\r\n\ @param\ \ \ file\ \ \ \ The\ file\ to\ parse.\r\n
+comment1.params=fileName
+comment1.target=TextParser(java.lang.String)
+comment1.text=\r\n\ Constructs\ a\ new\ TextParser\ to\ work\ on\ the\ file\ with\ the\ specified\ path\r\n\ \r\n\ @throws\ \ FileNotFoundException\ \ \ \ If\ the\ specified\ path\ is\ not\ a\ file\r\n\ @param\ \ \ fileName\ \ \ \ The\ path\ to\ the\ file.\r\n
+comment2.params=
+comment2.target=Configuration\ getConfiguration()
+comment2.text=\r\n\ Extract\ data\ from\ the\ file\ the\ class\ is\ storing,\ and\ converts\ it\ into\ a\ Configuration\ instance\ for\ the\ game\ to\ use.\r\n\ NOTE\:\r\n\ This\ scanner\ uses\ a\ method\ we\ learned\ from\ the\ weekly\ assignment\ no.\ 5\ (phonemore),\ more\ specifically,\ the\ parser\ class.\r\n\ Nothing\ is\ actually\ copied\ from\ the\ class,\ but\ that\ is\ the\ reason\ for\ any\ resemblance.\r\n\ @return\ \ A\ Configuration\ object\ with\ all\ the\ data.\r\n\ @throws\ \ ParserException\ An\ exception\ message\ generated\ by\ the\ parser.\ Only\ the\ message\ is\ filled\ by\ the\ parser,\ but\ it's\ pretty\ precise.\r\n
+numComments=3

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=width\ height
+comment0.target=Board(int,\ int)
+comment0.text=\r\n\ Constructs\ a\ new\ board\ with\ the\ specified\ width\ and\ height.\r\n\ \r\n\ @param\ \ \ width\ \ \ the\ width\ of\ the\ board\r\n\ @param\ \ \ height\ \ the\ height\ of\ the\ board\r\n
+comment1.params=
+comment1.target=int\ getWidth()
+comment1.text=\r\n\ Returns\ the\ width\ of\ the\ board.\r\n\ @return\ An\ integer\ value\ with\ the\ width\ of\ the\ board.\r\n
+comment2.params=
+comment2.target=int\ getHeight()
+comment2.text=\r\n\ Returns\ the\ height\ of\ the\ board.\r\n\ @return\ An\ integer\ value\ with\ the\ height\ of\ the\ board.\r\n
+comment3.params=position
+comment3.target=void\ occupyField(Position)
+comment3.text=\r\n\ Sets\ a\ position\ as\ being\ occupied\ in\ the\ game.\r\n\ @param\ position\ The\ position\ to\ occupy.\r\n
+comment4.params=position
+comment4.target=boolean\ isOccupied(Position)
+comment4.text=\r\n\ Checks\ if\ a\ given\ position\ is\ occupied.\r\n\ @param\ position\ The\ position\ that\ need\ be\ checked\ for\ occupation.\r\n\ @return\ A\ boolean\ value\ that\ shows\ the\ occupation\ of\ the\ position.\ True\ if\ the\ position\ is\ occupied,\ false\ if\ it\ is\ not.\r\n
+numComments=5

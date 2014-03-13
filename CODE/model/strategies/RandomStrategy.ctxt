@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RandomStrategy()
+comment0.text=\r\n\ Constructor\ for\ the\ RandomStrategy\ class.\r\n
+comment1.params=game\ player
+comment1.target=model.Direction\ nextMove(model.Game,\ model.Player)
+comment1.text=\r\n\ Decides\ where\ to\ move\ next,\ the\ move\ is\ not\ based\ on\ any\ good\ intel\ but\ is\ just\ a\ random\ direction\ that\ will\ not\ result\ in\ suicide,\ unless\ the\ player\ is\ trapped.\r\n\ @param\ \ \ game\ \ \ \ Instance\ of\ the\ game.\r\n\ @param\ \ \ player\ \ Instance\ of\ the\ player\ to\ choose\ a\ move\ from.\r\n\ @return\ \ A\ direction\ the\ player\ should\ move.\r\n
+numComments=2

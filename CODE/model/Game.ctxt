@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=board\ players
+comment0.target=Game(Board,\ java.util.Collection)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Game\r\n\ \r\n\ @param\ \ \ board\ \ \ The\ board\ of\ the\ game\r\n\ @param\ \ \ players\ The\ players\ of\ the\ game\r\n
+comment1.params=
+comment1.target=boolean\ gameOver()
+comment1.text=\r\n\ Whether\ the\ game\ is\ over\ or\ not.\r\n\ \r\n\ @return\ \ true\ if\ there\ is\ 1\ or\ 0\ players\ alive.\ False\ otherwise\r\n
+comment2.params=
+comment2.target=int\ getWidth()
+comment2.text=\r\n\ The\ width\ of\ the\ game's\ board\r\n\ \r\n\ @return\ The\ width\r\n
+comment3.params=
+comment3.target=int\ getHeight()
+comment3.text=\r\n\ The\ height\ of\ the\ game's\ board\r\n\ \r\n\ @return\ The\ height\r\n
+comment4.params=position
+comment4.target=boolean\ isOccupied(Position)
+comment4.text=\r\n\ Whether\ a\ field\ on\ the\ board\ is\ occupied\ or\ not\r\n\ \r\n\ @param\ \ \ position\ \ \ \ The\ position\ to\ check\r\n\ \r\n\ @return\ \ true\ if\ the\ position\ is\ occupied,\ false\ otherwise\r\n
+comment5.params=
+comment5.target=java.util.Collection\ getPlayerPositions()
+comment5.text=\r\n\ Returns\ a\ collection\ of\ all\ the\ different\ players'\ positions.\r\n\ \r\n\ @return\ \ A\ collection\ of\ the\ players'\ positions.\r\n
+numComments=6

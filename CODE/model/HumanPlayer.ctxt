@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=color\ name
+comment0.target=HumanPlayer(java.awt.Color,\ java.lang.String)
+comment0.text=\r\n\ Constructs\ a\ new\ human\ player\ with\ the\ specified\ color\ and\ name\r\n\ \r\n\ @param\ \ \ color\ \ \ The\ color\ of\ the\ player\r\n\ @param\ \ \ name\ \ \ \ The\ name\ of\ the\ player\r\n
+comment1.params=game
+comment1.target=Direction\ nextMove(Game)
+comment1.text=\r\n\ The\ wished\ direction\ of\ the\ next\ move.\r\n\ This\ is\ set\ through\ keyboard\ input.\r\n\ \r\n\ @param\ \ \ board\ \ \ The\ board\ of\ the\ current\ game\r\n
+comment2.params=o\ arg
+comment2.target=void\ update(java.util.Observable,\ java.lang.Object)
+comment2.text=\r\n\ Updates\ the\ next\ direction\ of\ this\ player\ if\ the\ argument\ is\ a\r\n\ Direction.\r\n\ \r\n\ @param\ \ \ o\ \ \ The\ object\ invoking\ this\ method\r\n\ @param\ \ \ arg\ The\ argument\ sent.\ If\ this\ is\ a\ Direction\ the\ next\ move\ is\ changed.\r\n
+numComments=3

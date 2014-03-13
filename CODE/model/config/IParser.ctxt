@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Configuration\ getConfiguration()
+comment0.text=\r\n\ Performs\ the\ parsing\ and\ returns\ the\ configuration.\r\n\ \r\n\ @throws\ \ ParserException\ On\ malformed\ input\r\n\ @return\ \ A\ Configuration\ object\ resulting\ from\ the\ parsed\ data\r\n
+numComments=1

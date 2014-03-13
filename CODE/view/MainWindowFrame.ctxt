@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=tronDisplayPanel
+comment0.target=MainWindowFrame(TronDisplayPanel)
+comment0.text=\r\n\ Creates\ a\ new\ main\ window\ with\ an\ image\ panel.\r\n\ \r\n\ @param\ \ \ tronDisplayPanel\ \ the\ game\ display\ panel\r\n
+comment1.params=player
+comment1.target=void\ addHumanObserver(model.HumanPlayer)
+comment1.text=\r\n\ Adds\ a\ HumanPllayer\ as\ observer\ on\ the\ gameInput\ class.\r\n\ Used\ for\ getting\ keyboard\ input\ to\ player\ 1.\r\n\ \r\n\ @param\ \ \ player\ \ The\ HumanPlayer\ to\ add\ as\ observer.\r\n
+numComments=2

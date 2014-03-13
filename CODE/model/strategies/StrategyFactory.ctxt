@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StrategyFactory()
+comment0.text=\r\n\ Private\ constructor\ to\ prevent\ instantiation\r\n
+comment1.params=type
+comment1.target=IStrategy\ getStrategy(StrategyFactory.Type)
+comment1.text=\r\n\ Gets\ an\ instance\ of\ a\ given\ strategy\ type.\r\n\ \r\n\ @param\ \ \ type\ \ \ \ the\ type\ of\ the\ strategy\r\n\ @return\ \ the\ strategy\r\n
+comment2.params=
+comment2.target=java.util.HashMap\ getStrategyTypes()
+comment2.text=\r\n\ Gets\ a\ map\ of\ the\ supported\ strategy\ types\ where\ the\ key\ is\ the\ name\ and\ the\ type\ as\ value.\r\n\ \r\n\ @return\ the\ map\ of\ the\ supported\ strategy\ types\r\n
+numComments=3

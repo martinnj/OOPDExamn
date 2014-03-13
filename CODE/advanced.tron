@@ -1,0 +1,9 @@
+100 100 6
+line: 10 10 90 30
+line: 10 70 90 90
+line: 80 40 70 70
+line: 30 30 20 60
+player: 25 25
+player: 75 75
+player: 25 75
+player: 75 25
